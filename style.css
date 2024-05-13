@@ -1,0 +1,25 @@
+#heading
+{
+    font-size: 50px;
+    width: 80%;
+}
+body
+{
+    background:linear-gradient(lightblue,pink,purple);
+    color: red;
+}
+.objects,#object_name,#object_accuracy
+{
+    color: green;
+    font-size: 20px;
+}
+#camera,#result
+{
+    border:2px dashed black ;
+    width: 350px;
+    height: 300px;
+}
+#member,#accuracy
+{
+    color: black;
+}
